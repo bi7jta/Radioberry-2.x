@@ -1,5 +1,12 @@
 RadioBerry V2.0 - Ham radio cape for Raspberry PI
 ==============================================
+## Twitter description 
+https://twitter.com/f1mij/status/1021001051053453313?s=20&fbclid=IwAR24R68a9Cc0OsZYRFh5lCNgYA9j-3aKdfd13WCTN7R1dNQRjGC-9It_G4s 
+
+## Facebook description
+https://www.facebook.com/groups/125976197565231/?multi_permalinks=1773373226158845&hoisted_section_header_type=recently_seen&__cft__[0]=AZVh9NqfWCyOxY6itgLEV-14fL8Y8UVdirUsSF7rT8AWMF1xxYqADwTB_0qMdN6aY-vas20sTKPdqjfOPyZoIoKRlY4jl8ZswHNmnuuhqof4ALHBoRO-V4p-cQ1n6tAhX6-MEWqxTxiGnapAUCicp3k3vyuCJveSuLuVw7_X4OzRbuc4ey6XVAywasJK1tmW-tH8txgHNGtthgiJB-lXPm4t_UOHkBLsNe4yWuQ65_OXqQ&__tn__=%2CO%2CP-R
+
+![Radioberry-2.x](https://www.bi7jta.org/wiki/images/9/9c/Pa3gsb-Radioberry-2.x.jpg)
 
 ## Main purpose of the project:
 
